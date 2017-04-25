@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+
+   <title>HHN</title>
+
+    <link rel='stylesheet' href='/stylesheets/grayscale.css' />
+
+    <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Custom Hover Effects CSS -->
+  <link href="stylesheets/hover-min.css" rel="stylesheet">
+
+
+
+  <!-- Custom Fonts -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+  </head>
+  <body id="page-top"  data-spy="scroll" data-target=".navbar-fixed-top">
+
+      <!-- Navigation -->
+      <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+          <div class="container">
+              <div class="navbar-header">
+                  <button type="button" class="navbar-toggle " data-toggle="collapse" data-target=".navbar-main-collapse">
+                      <i class="fa fa-bars fa-lg"></i>
+                  </button>
+                  <a class="navbar-brand page-scroll" href="#page-top">
+                      <i class="fa fa-home"></i>  <span class="light">HHN</span>
+                  </a>
+              </div>
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                  <ul class="nav navbar-nav">
+                      <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                      <li class="hidden">
+                          <a href="#page-top"></a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#search">Search</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#download">Skills</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#projects">Projects</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#contact">Contact</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="http://webstudioplace.com/">Return</a>
+                      </li>
+                  </ul>
+              </div>
+              <!-- /.navbar-collapse -->
+          </div>
+          <!-- /.container -->
+      </nav>
+
+      <!-- Intro Header -->
+      <header class="intro">
+          <div class="intro-body">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-lg-12 ">
+                          <!-- <h1 class="brand-heading ">House Hunters Network</h1><br> -->
+                          <p class="intro-text">Buy & Sell Houses</p>
+                          <p class="intro-text2">House Hunters Network</p>
+
+                          <a href="#profile" class="btn btn-circle page-scroll">
+                              <i class="fa fa-angle-double-down animated"></i>
+                          </a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+
+      <!-- Profile Section -->
+      <section id="search" class="container-fluid text-center">
+          <div class="row"> <br> <br> <br>
+              <h2>HOUSE HUNTING  </h2> <br>
+              <div class="col-l-8 col-lg-offset-0">
+
+
+
+      <p class="home-text">When you are looking for a great deal on Cash Flow Properties, or if you just want to save some money on purchasing a Single Family Home for yourself as an Owner Occupant, give us a call. We can point you in the right direction, no matter what you seek... Our team is specialized in finding great deals so you can SAVE lots of money on your purchase. Often times if you are interested in purchasing investment property, we can help you find a great deal that can make you a great Return on Your Investment (ROI). There are always great deals to be acquired. You only need to know when to seek the advice of a professional and follow their lead. You also need to have your funding resources in order once the deal is found. We can help you with Funding Resources as required. We offer Client References upon request.</p>
+
+              </div>
+          </div>
+      </section>
+
+
+      <section id="download" class="content-section text-center">
+
+
+              <div class="row ">
+                  <h2 >Skills</h2><br>
+                  <div class="col-l-8 col-lg-offset-0">
+
+                <p class="home-text">NEED OR WANT TO SELL ASAP – We got you covered. No matter what your particular situation, if you need to sell your home, just give us a call and tell us your story. We can help solve your particular problem if we know what you need or your reason to sell your home. Not only can sell your home, we can immediately help you move into another home that better suits your needs or finances. We only sell homes that are “Off Market”, not listed with a Real Estate Agent or on any Multiple Listing Service, as we have our own Private Database of Buyers and Investors looking to purchase good deals. Therefore, if you have a need to Sell Quickly, or “Take the Money and Run” you have made the right call. Based on your specific needs, we can make a purchase offer that will solve your problem straight away. We offer CASH & CARRY deals... Ask us how – Schedule your property evaluation TODAY.</p>
+                  </div>
+          </div>
+
+      </section>
+
+
+      <section id="projects" class="container-fluid text-center">
+
+
+          <div class="row"> <br> <br> <br>
+            <h2 >Projects</h2> <br>
+            <div class="col-md-4">
+              <!-- FEATURE ONE ANGULAR JS -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5468/31091850711_b5a09fb23b_o.png" alt="" />
+
+      						<div class="overlay">
+      							<h2 class="hoverText1"> AngularJs, Ejs, Json, NodeJs</h2>
+                    <a href="http://webstudioplace.com:3005/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+               </button><a/>
+      						</div>
+      				</div>
+            </div>
+            <div class="col-md-4">
+              <!-- FEATURE TWO ISroll -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
+                <a href="http://webstudioplace.com:3003/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                </button></a>
+
+                  </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <!-- FEATURE THREE REACT-->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/3/2888/32905833514_302c70266b_b.jpg" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1">NodeJs, HTML5, ReactJs, BableJs</h2>
+                <a href="http://webstudioplace.com:3004/ " target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                </button></a>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Second - Row -->
+          <div class="row">
+            <div class="col-md-4">
+              <!-- FEATURE FOUR Hotel Travel -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
+                    <div class="overlay">
+                      <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less, Jasmine  </h2>
+                    <a href="http://webstudioplace.com:3002/# " target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
+                    </button></a>
+                  </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <!-- FEATURE FIVE CODE SAMPLE WORK_DEMO-->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/4/3736/33774431465_ccffeff8dd_b.jpg" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1"> API, XHR, AJAX, Angular  </h2>
+                  <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                  </button></a>
+                  </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <!-- FEATURE SIX WSP -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5808/31091850541_9ca2856244_o.png" alt="" />
+
+                  <div class="overlay">
+                    <h2 class="hoverText1">NPM, Forever, NodeJs, ExpressJs, EJS    </h2>
+                    <a href="http://webstudioplace.com" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
+                </button></a>
+                  </div>
+              </div>
+            </div>
+          </div>
+
+      </section>
+
+
+
+
+
+
+      <!-- Contact Section -->
+      <section id="contact" class="container  text-center">
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2"> <br> <br>
+                  <h2>Contact</h2> <br>
+                  <p>Feel free to contact me by email to discuss how I can be an asset to your company.
+                  </p>
+                  <br>
+
+                  <ul class="list-inline banner-social-buttons">
+
+
+                      <li>
+                          <a href="mailto:pyramidguest@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Email</span></a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </section>
+
+
+
+      <!-- Footer -->
+      <footer>
+          <div class="container text-left">
+
+              <small class="copyR">Copyright &copy; Web Studio Place 2017</small>
+          </div>
+      </footer>
+
+
+      <!-- jQuery -->
+      <script src="/javascripts/scripts.js"></script>
+      <script src="/javascripts/jquery.js"></script>
+
+      <!-- Plugin JavaScript -->
+      <script src="/javascripts/jquery.easing.min.js"></script>
+      <!-- Bootstrap Core JavaScript -->
+      <script src="/javascripts/bootstrap.min.js"></script>
+
+      <!--CDN link for  TweenMax-->
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+      <!--ENDBUILD-->
+
+
+      <!-- Custom Theme JavaScript -->
+      <script src="/javascripts/scale.js"></script>
+</body>
+</html>
