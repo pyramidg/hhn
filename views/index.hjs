@@ -44,20 +44,16 @@
                           <a href="#page-top"></a>
                       </li>
                       <li>
-                          <a class="page-scroll" href="#search">Search</a>
+                          <a class="page-scroll" href="#search">Feature One</a>
                       </li>
                       <li>
-                          <a class="page-scroll" href="#download">Skills</a>
+                          <a class="page-scroll" href="#download">Feature Two</a>
                       </li>
                       <li>
-                          <a class="page-scroll" href="#projects">Projects</a>
+                          <a class="page-scroll" href="#projects">Feature Three</a>
                       </li>
-                      <li>
-                          <a class="page-scroll" href="#contact">Contact</a>
-                      </li>
-                      <li>
-                          <a class="page-scroll" href="http://webstudioplace.com/">Return</a>
-                      </li>
+
+
                   </ul>
               </div>
               <!-- /.navbar-collapse -->
@@ -70,14 +66,15 @@
           <div class="intro-body">
               <div class="container">
                   <div class="row">
-                      <div class="col-lg-12 ">
+                      <div class="col-l-8 col-lg-offset-0">
                           <!-- <h1 class="brand-heading ">House Hunters Network</h1><br> -->
-                          <p class="intro-text">Buy & Sell Houses</p>
-                          <p class="intro-text2">House Hunters Network</p>
+                          <!-- <p class="intro-text">Buy & Sell Houses</p> -->
 
-                          <a href="#profile" class="btn btn-circle page-scroll">
+
+                          <a href="#search" class="btn btn-circle page-scroll">
                               <i class="fa fa-angle-double-down animated"></i>
                           </a>
+                            <p class="intro-text2">House Hunters Network</p>
                       </div>
                   </div>
               </div>
@@ -97,16 +94,62 @@
               </div>
           </div>
       </section>
+      <!-- Page Content -->
+      <div class="container-fluid">
+
+          <!-- Page Header -->
+          <div class="row">
+              <div class="col-l-8 col-lg-offset-0">
+                  <h1 class="page-header">Page Heading
+                      <small>Secondary Text</small>
+                  </h1>
+              </div>
+          </div>
+          <!-- /.row -->
+
+          <!-- Projects Row -->
+          <div class="row">
+              <div class="col-md-4 portfolio-item">
+                  <a href="#">
+                      <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                  </a>
+                  <h3>
+                      <a href="#">Project Name</a>
+                  </h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              </div>
+              <div class="col-md-4 portfolio-item">
+                  <a href="#">
+                      <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                  </a>
+                  <h3>
+                      <a href="#">Project Name</a>
+                  </h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              </div>
+              <div class="col-md-4 portfolio-item">
+                  <a href="#">
+                      <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                  </a>
+                  <h3>
+                      <a href="#">Project Name</a>
+                  </h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              </div>
+          </div>
+        </div>
+          <!-- /.row -->
+
+          <br><br>
+
+      <section id="download" class="container-fluid text-center second-row ">
 
 
-      <section id="download" class="content-section text-center">
-
-
-              <div class="row ">
-                  <h2 >Skills</h2><br>
+              <div class="row "><br><br><br>
+                  <h2 class="h2-white" >List Your Property</h2><br>
                   <div class="col-l-8 col-lg-offset-0">
 
-                <p class="home-text">NEED OR WANT TO SELL ASAP – We got you covered. No matter what your particular situation, if you need to sell your home, just give us a call and tell us your story. We can help solve your particular problem if we know what you need or your reason to sell your home. Not only can sell your home, we can immediately help you move into another home that better suits your needs or finances. We only sell homes that are “Off Market”, not listed with a Real Estate Agent or on any Multiple Listing Service, as we have our own Private Database of Buyers and Investors looking to purchase good deals. Therefore, if you have a need to Sell Quickly, or “Take the Money and Run” you have made the right call. Based on your specific needs, we can make a purchase offer that will solve your problem straight away. We offer CASH & CARRY deals... Ask us how – Schedule your property evaluation TODAY.</p>
+                <p class="p-white"> Ready To Sell Now - We got you covered. No matter what your particular situation, if you need to sell your home, just give us a call and tell us your story. We can help solve your particular problem if we know what you need or your reason to sell your home. Not only can sell your home, we can immediately help you move into another home that better suits your needs or finances. We only sell homes that are “Off Market”, not listed with a Real Estate Agent or on any Multiple Listing Service, as we have our own Private Database of Buyers and Investors looking to purchase good deals. Therefore, if you have a need to Sell Quickly, or “Take the Money and Run” you have made the right call. Based on your specific needs, we can make a purchase offer that will solve your problem straight away. We offer CASH & CARRY deals... Ask us how – Schedule your property evaluation TODAY.</p>
                   </div>
           </div>
 
@@ -114,88 +157,18 @@
 
 
       <section id="projects" class="container-fluid text-center">
+        <div class="row"> <br> <br> <br>
+            <h2>Make An Offer  </h2> <br>
+            <div class="col-l-8 col-lg-offset-0">
 
 
-          <div class="row"> <br> <br> <br>
-            <h2 >Projects</h2> <br>
-            <div class="col-md-4">
-              <!-- FEATURE ONE ANGULAR JS -->
-              <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5468/31091850711_b5a09fb23b_o.png" alt="" />
 
-      						<div class="overlay">
-      							<h2 class="hoverText1"> AngularJs, Ejs, Json, NodeJs</h2>
-                    <a href="http://webstudioplace.com:3005/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
-               </button><a/>
-      						</div>
-      				</div>
+        <p class="home-text">WHEN YOU NEED A PROFESSIONAL – It can work to your advantage. We offer Affordable Consulting for the inquisitive type individuals. For those looking for advice on whether they should buy or sell. We also can offer advice to individuals, groups or beginning investor(s) that want more information on how to buy and/or find the best investment deals. We can recommend the best strategies for your objectives. When you find yourself in a bit of a pickle or have gotten (or about to get) yourself in a bad transaction, contact us immediately and we can mediate for you and save you prevent you from losing your money. Upon request we can review your contracts to prevent legal misinterpretations in your behalf. And if you need legal advice, we will be more than happy to refer you to Legal Counsel upon your request. Refer a Friend or Family... We appreciate your referrals.
+            </p>
+
             </div>
-            <div class="col-md-4">
-              <!-- FEATURE TWO ISroll -->
-              <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
-                  <div class="overlay">
-                    <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
-                <a href="http://webstudioplace.com:3003/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
-                </button></a>
-
-                  </div>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <!-- FEATURE THREE REACT-->
-              <div class="hover ehover3">
-                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/3/2888/32905833514_302c70266b_b.jpg" alt="" />
-                  <div class="overlay">
-                    <h2 class="hoverText1">NodeJs, HTML5, ReactJs, BableJs</h2>
-                <a href="http://webstudioplace.com:3004/ " target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
-                </button></a>
-                  </div>
-              </div>
-            </div>
-          </div>
-          <!-- Second - Row -->
-          <div class="row">
-            <div class="col-md-4">
-              <!-- FEATURE FOUR Hotel Travel -->
-              <div class="hover ehover3">
-                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
-                    <div class="overlay">
-                      <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less, Jasmine  </h2>
-                    <a href="http://webstudioplace.com:3002/# " target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
-                    </button></a>
-                  </div>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <!-- FEATURE FIVE CODE SAMPLE WORK_DEMO-->
-              <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/4/3736/33774431465_ccffeff8dd_b.jpg" alt="" />
-                  <div class="overlay">
-                    <h2 class="hoverText1"> API, XHR, AJAX, Angular  </h2>
-                  <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
-                  </button></a>
-                  </div>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <!-- FEATURE SIX WSP -->
-              <div class="hover ehover3">
-                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5808/31091850541_9ca2856244_o.png" alt="" />
-
-                  <div class="overlay">
-                    <h2 class="hoverText1">NPM, Forever, NodeJs, ExpressJs, EJS    </h2>
-                    <a href="http://webstudioplace.com" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
-                </button></a>
-                  </div>
-              </div>
-            </div>
-          </div>
-
-      </section>
+        </div>
+  </section>
 
 
 
@@ -203,7 +176,7 @@
 
 
       <!-- Contact Section -->
-      <section id="contact" class="container  text-center">
+      <!-- <section id="contact" class="container  text-center">
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2"> <br> <br>
                   <h2>Contact</h2> <br>
@@ -220,17 +193,117 @@
                   </ul>
               </div>
           </div>
-      </section>
+      </section> -->
+
+      <!-- Projects Row -->
+      <div class="container-fluid">
 
 
-
-      <!-- Footer -->
-      <footer>
-          <div class="container text-left">
-
-              <small class="copyR">Copyright &copy; Web Studio Place 2017</small>
+      <div class="row">
+          <div class="col-md-4 portfolio-item">
+              <a href="#">
+                  <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+              </a>
+              <h3>
+                  <a href="#">Project Name</a>
+              </h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
           </div>
-      </footer>
+          <div class="col-md-4 portfolio-item">
+              <a href="#">
+                  <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+              </a>
+              <h3>
+                  <a href="#">Project Name</a>
+              </h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          </div>
+          <div class="col-md-4 portfolio-item">
+              <a href="#">
+                  <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+              </a>
+              <h3>
+                  <a href="#">Project Name</a>
+              </h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          </div>
+      </div>
+
+      <!-- Projects Row -->
+      <div class="row">
+          <div class="col-md-4 portfolio-item">
+              <a href="#">
+                  <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+              </a>
+              <h3>
+                  <a href="#">Project Name</a>
+              </h3>
+              <p>Lorem ipsum dolor sit amet sit, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          </div>
+          <div class="col-md-4 portfolio-item">
+              <a href="#">
+                  <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+              </a>
+              <h3>
+                  <a href="#">Project Name</a>
+              </h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          </div>
+          <div class="col-md-4 portfolio-item">
+              <a href="#">
+                  <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+              </a>
+              <h3>
+                  <a href="#">Project Name</a>
+              </h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          </div>
+      </div>
+
+      <!-- /.row -->
+
+
+
+          <hr>
+
+          <!-- Pagination -->
+          <div class="row text-center">
+              <div class="col-md-12">
+                  <ul class="pagination">
+                      <li>
+                          <a href="#">&laquo;</a>
+                      </li>
+                      <li class="active">
+                          <a href="#">1</a>
+                      </li>
+                      <li>
+                          <a href="#">2</a>
+                      </li>
+                      <li>
+                          <a href="#">3</a>
+                      </li>
+                      <li>
+                          <a href="#">4</a>
+                      </li>
+                      <li>
+                          <a href="#">5</a>
+                      </li>
+                      <li>
+                          <a href="#">&raquo;</a>
+                      </li>
+                  </ul>
+              </div>
+                  <small class="copyR">Copyright &copy; HouseHuntersNetwork.com 2017</small>
+          </div>
+          </div>
+          <!-- /.row -->
+
+          <hr>
+
+
+
+
+
 
 
       <!-- jQuery -->
